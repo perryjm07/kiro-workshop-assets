@@ -33,8 +33,20 @@ Follow the workshop instructions to manually deploy the infrastructure:
 
 https://catalog.workshops.aws/kiro-immersion/en-US/15-sample-application/151-deploy-application
 
+## Step 4: Generate Steering Documents
+
+After the deploy completes, generate steering documents for the project:
+
+1. In Kiro, look for the **AGENT STEERING & SKILLS** section in the sidebar
+2. Click the **+** (plus sign) next to it
+3. Select **Project Steering Files**
+4. Kiro will generate steering files at the root of the project that you can review
+
+> **Note**: There is no dedicated "Generate Steering Documents" button. You must use the **+** icon next to AGENT STEERING & SKILLS.
+
 ## Continue the Workshop
 
 From here, continue using the workshop instructions with this lab environment:
 
 https://catalog.workshops.aws/kiro-immersion/en-US
+
